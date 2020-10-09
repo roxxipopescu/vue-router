@@ -1,0 +1,46 @@
+{
+  "tvs": [
+    {
+      "id": 1,
+      "occupation": "entertainer",
+      "name": "Britney",
+      "model": "50TU7072"
+    },
+    {
+      "id": 2,
+      "occupation": "IT guy",
+      "name": "Jack",
+      "model": "50TU7072"
+    },
+    {
+      "id": 3,
+      "occupation": "doctor",
+      "name": "Sony",
+      "model": "ABCD"
+    },
+    {
+      "id": 4,
+      "occupation": "actess",
+      "name": "Lora",
+      "model": "50TU7072"
+    },
+    {
+      "id": 5,
+      "occupation": "lawyer",
+      "name": "Sam",
+      "model": "50TU7072"
+    },
+    {
+      "id": 6,
+      "occupation": "unemployed",
+      "name": "Mitch",
+      "model": "ABCD"
+    },
+    {
+      "id": 7,
+      "occupation": "entertainer",
+      "name": "Benny",
+      "model": "50TU7072"
+    }
+  ]
+}
